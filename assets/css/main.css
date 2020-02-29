@@ -209,7 +209,8 @@ input, select, textarea {
 	}
 
 	.projectPictureNutshell img{
-		width: 12em;
+		height: 10em;
+
 		border: 1px solid black;
 	}
 
