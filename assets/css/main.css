@@ -215,6 +215,15 @@ input, select, textarea {
 		border: 1px solid black;
 	}
 
+		.projectPicturePack img{
+		height: 10em;
+		margin-bottom: 5em;
+		margin-top: 5em;
+		margin-right: 15em;
+		padding: 15px;
+		border: 1px solid black;
+	}
+
 	.techlogo img{
 		width: 10em;
 		height: 10em;
